@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "starting-strength",
-    "slug": "starting-strength",
+    "name": "react-native-template",
+    "slug": "react-native-template",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,7 +28,13 @@
     },
     "web": {
       "favicon": "./assets/favicon.png",
-      "build": { "babel": { "include": [ "@ui-kitten/components" ] }}
+      "build": {
+        "babel": {
+          "include": [
+            "@ui-kitten/components"
+          ]
+        }
+      }
     }
   }
 }
