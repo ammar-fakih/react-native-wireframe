@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "athena-board",
-    "slug": "athena-board",
+    "name": "react-native-template",
+    "slug": "react-native-template",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -34,11 +34,6 @@
             "@ui-kitten/components"
           ]
         }
-      }
-    },
-    "extra": {
-      "eas": {
-        "projectId": "25f03800-f323-4936-93dd-6037d058bceb"
       }
     }
   }

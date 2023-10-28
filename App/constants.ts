@@ -1,1 +1,0 @@
-export const eventTypeOptions = ['Academic', 'Social', 'Party', 'Sports', 'Other'];
